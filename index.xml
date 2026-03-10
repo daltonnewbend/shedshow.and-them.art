@@ -9,7 +9,14 @@
     <copyright>and them</copyright>
     <atom:link href="https://shedshow.and-them.art/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>alex, wowlex, shallot, galexy</title>
+      <title></title>
+      <link>https://shedshow.and-them.art/participants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shedshow.and-them.art/participants/</guid>
+      <description>&lt;h1 id=&#34;alex&#34;&gt;&lt;a href=&#34;https://shedshow.and-them.art/artists/alex/&#34;&gt;Alex&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;a.k.a. wowlex, shallot, and galexy&lt;/p&gt;&#xA;&lt;h1 id=&#34;dalton-newbend&#34;&gt;&lt;a href=&#34;https://shedshow.and-them.art/artists/dalton-newbend/&#34;&gt;Dalton Newbend&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;joshua-newbend&#34;&gt;&lt;a href=&#34;https://shedshow.and-them.art/artists/joshua-newbend/&#34;&gt;Joshua Newbend&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;kate-greenwell&#34;&gt;&lt;a href=&#34;https://shedshow.and-them.art/artists/kate-greenwell/&#34;&gt;Kate Greenwell&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;sonja-langford&#34;&gt;&lt;a href=&#34;sonja-langford.md&#34;&gt;Sonja Langford&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>alex</title>
       <link>https://shedshow.and-them.art/artists/alex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shedshow.and-them.art/artists/alex/</guid>
@@ -35,6 +42,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shedshow.and-them.art/artists/kate-greenwell/</guid>
       <description>&lt;h4 id=&#34;links&#34;&gt;links&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.katesigridgreenwell.com/&#34;&gt;website&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/katesigridgreenwell/&#34;&gt;instagram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Sonja Langford</title>
+      <link>https://shedshow.and-them.art/artists/sonja-langford/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shedshow.and-them.art/artists/sonja-langford/</guid>
+      <description>&lt;h4 id=&#34;links&#34;&gt;links&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34;&gt;website&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34;&gt;instagram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:&#34;&gt;email&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>what to show</title>
