@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHED SHOW</title>
+    <link>https://shedshow.and-them.art/</link>
+    <description>Recent content on SHED SHOW</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>and them</copyright>
+    <atom:link href="https://shedshow.and-them.art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>alex, wowlex, shallot, galexy</title>
+      <link>https://shedshow.and-them.art/artists/alex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shedshow.and-them.art/artists/alex/</guid>
+      <description>&lt;p&gt;He&amp;rsquo;s a cat, but he&amp;rsquo;s still in on it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dalton Newbend</title>
+      <link>https://shedshow.and-them.art/artists/dalton-newbend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shedshow.and-them.art/artists/dalton-newbend/</guid>
+      <description>&lt;h4 id=&#34;links&#34;&gt;links&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dalton.newbend.art&#34;&gt;art&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://thepapers.newbend.art&#34;&gt;the papers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:daltonnewbend@proton.me&#34;&gt;email&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Joshua Newbend</title>
+      <link>https://shedshow.and-them.art/artists/joshua-newbend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shedshow.and-them.art/artists/joshua-newbend/</guid>
+      <description>&lt;h4 id=&#34;links&#34;&gt;links&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/joshuanewbend.art/&#34;&gt;instagram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:&#34;&gt;email&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Kate Greenwell</title>
+      <link>https://shedshow.and-them.art/artists/kate-greenwell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shedshow.and-them.art/artists/kate-greenwell/</guid>
+      <description>&lt;h4 id=&#34;links&#34;&gt;links&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.katesigridgreenwell.com/&#34;&gt;website&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/katesigridgreenwell/&#34;&gt;instagram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
